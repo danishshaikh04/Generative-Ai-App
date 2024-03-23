@@ -1,5 +1,7 @@
 **Generative AI App**
-This project is a Generative AI application developed using React, Vite, and Context APIs. The app aims to provide a user-friendly interface for interacting with a machine learning model to generate text-based responses to user prompts.
+This project is a Generative AI application developed using React, Vite, and Context APIs.  
+The app aims to provide a user-friendly interface for interacting with a machine learning model 
+to generate text-based responses to user prompts.
 
 **Features:**
 Responsive Design: Built with React and Vite, ensuring a smooth and responsive user experience across devices.
@@ -14,7 +16,8 @@ Context APIs: A feature of React for sharing state across components.
 Generative AI Model: Utilizes a machine learning model for generating text-based responses.
 
 **Deployment:**
-The app is deployed on Netlify and accessible here.
+The app is deployed on Netlify and accessible here [Generative AI App](https://generativeaiapp.netlify.app/)
+.
 
 **How to Use:**
 Clone the repository.
